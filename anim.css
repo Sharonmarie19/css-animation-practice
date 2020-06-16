@@ -1,33 +1,31 @@
 .box{
     width: 100px;
     height: 100px;
-     position: absolute;
+    position: absolute;
 }
-.box--one{
+
+.box-one{
   color: lightcoral; 
   top: 0;
   left: 0;
   }
 
- .box--two{
- color:n lightblue;
+.box-two{
+ color: lightblue;
  top: 0;
  right: 0;
  }
 
-.box--three{
+.box-three{
  color:lightgreen;
  bottom: 0;
-left: 0;
+ left: 0;
   }
 
- .box--four{
+.box-four{
  color:   lightgoldenrodyellow;
  bottom: 0;
-right: 0;
+ right: 0;
  }
 
- @keyframes main--box--one{
-
-
- }
+ 
